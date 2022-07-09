@@ -1,0 +1,13 @@
+git init // inicia a linha do tempo do git
+git add // adiciona ou atualiza mudanças
+2) ** git commit // salva as alterações e adições
+git log // visualiza os commits realizados
+git status // informa o estado das alterações do nosso projeto
+git show // apresenta determinado commit
+git branch // gerência novas linhas do tempo
+git checkout // manipula as linhas do tempo
+git merge // uni as linhas do tempo
+git clone // clonar um projeto / repositório
+git pull // puxa do repositório remoto
+1) ** git add . // Adiciona e salva qualquer alteração, mas depois de um comit
+git push // Envia os arquivos para a nuvem GITHUB

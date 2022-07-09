@@ -1,0 +1,2 @@
+atalho do visual Studio code
+html:5 - para adicionar a configuração padrão do html
